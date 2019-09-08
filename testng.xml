@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.leafBot.testcases"/>
+      <class name="com.leafBot.testcases.TC_002_CreateLead"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
